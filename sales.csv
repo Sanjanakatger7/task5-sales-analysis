@@ -1,0 +1,13 @@
+Date,Region,Product,Quantity,UnitPrice
+2025-01-05,North,Widget A,10,9.99
+2025-01-12,South,Widget B,5,19.50
+2025-02-03,North,Widget C,8,12.00
+2025-02-15,East,Widget A,7,9.99
+2025-03-01,West,Widget B,12,19.50
+2025-03-10,South,Widget A,6,9.99
+2025-04-05,East,Widget C,9,12.00
+2025-04-12,North,Widget B,4,19.50
+2025-05-20,West,Widget A,15,9.99
+2025-06-02,South,Widget C,3,12.00
+2025-06-18,East,Widget B,2,19.50
+2025-07-01,North,Widget C,11,12.00
